@@ -8,3 +8,8 @@ C:\Users\user-pc\Downloads\Calculadora2\Calculadora2\Entidades\bin\Debug\Entidad
 C:\Users\user-pc\Downloads\Calculadora2\Calculadora2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\user-pc\Downloads\Calculadora2\Calculadora2\Entidades\obj\Debug\Entidades.dll
 C:\Users\user-pc\Downloads\Calculadora2\Calculadora2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Entidades\obj\Debug\Entidades.pdb

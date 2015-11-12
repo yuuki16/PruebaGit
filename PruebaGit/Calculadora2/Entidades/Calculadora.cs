@@ -49,24 +49,45 @@ namespace Entidades
             this.resultado = p_resultado;
         }
 
-        public void Sumar(string p_opcion)
+        public void Sumar(int p_opcion)
         {
             try
             {
-                if (p_opcion == "sumar")
+                if (p_opcion > 0 && p_opcion < 5)
                 {
-                    this.resultado = this.numero1 + this.numero2;
+                    if (p_opcion == 1)
+                    {
+                        this.resultado = this.numero1 + this.numero2;
+                    }
+                    else if (p_opcion == 2)
+                    {
+                        this.resultado = this.numero1 - this.numero2;
+                    }
+                    else if (p_opcion == 3)
+                    {
+                        this.resultado = this.numero1 * this.numero2;
+                    }
+                    else if (p_opcion == 4)
+                    {
+                        if (this.numero2 != 0)
+                        {
+                            this.resultado = this.numero1 / this.numero2;
+                        }
+                        else {
+                            throw new Exception("El segundo número no puede ser 0");
+                        }
+                       
+                    }
                 }
-                else if (p_opcion == "restar")
-                {
-                    this.resultado = this.numero1 - this.numero2;
-              }
+                else {
+                    throw new Exception("La opcion no existe");
+                }
 
             }
-            catch (Exception)
+            catch (Exception e)
             {
-
-                throw;
+                Console.WriteLine("{0}", e.Message);
+                //throw;
             }
             
         }

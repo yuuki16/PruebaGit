@@ -17,3 +17,11 @@ C:\Users\user-pc\Downloads\Calculadora2\Calculadora2\Calculadora2\obj\Debug\Calc
 C:\Users\Michelle\Dropbox\Implementacion y Mantenimiento en Clase\Calculadora con Resta\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
 C:\Users\Michelle\Dropbox\Implementacion y Mantenimiento en Clase\Calculadora con Resta\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
 C:\Users\Michelle\Dropbox\Implementacion y Mantenimiento en Clase\Calculadora con Resta\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\bin\Debug\Entidades.dll
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\bin\Debug\Entidades.pdb
+C:\Users\Michelle\Desktop\UIA\III Cuatrimestre 2015\Implementación y Mantenimiento de Software\Investigacion\Repositorio Git\PruebaGit\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojResolveAssemblyReference.cache
