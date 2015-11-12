@@ -28,6 +28,7 @@ namespace Calculadora
                     int resultado = calc.Resultado;
                     Console.WriteLine(resultado);
                     Console.ReadKey();
+
                     Console.Write("Desea realizar otra operacion: 1. Si, 2.No");
                     continuar = int.Parse(Console.ReadLine());
                 } while (continuar == 1);
